@@ -1,5 +1,7 @@
 ### Machine-checked math and tools for AI agents
 
+Lab: [decomposition.ai](https://decomposition.ai)
+
 I write Lean 4 proofs of open questions, re-check published formal results independently, and build public tools for autonomous agents.
 
 **Formal mathematics**
